@@ -1,5 +1,6 @@
-﻿# Simple React Start Kit 2017
+﻿# 來源參照ReactMaker,網址(https://github.com/ReactMaker/)
 
+剩下不更改方便自己參考用
 這個環境包可以讓你快速體驗 ReactJS 開發環境的便利，我們並沒有在裏面放入太多套件(例如 redux, karma)，希望可以讓你用最簡單的環境開始學習 React
 
 ## 特色
